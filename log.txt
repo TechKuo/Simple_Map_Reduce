@@ -1,0 +1,202 @@
+commit 8502cc5c3099afe6dc050a87f0623c574a6cd983
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Sat Nov 16 17:51:23 2013 -0500
+
+    added dependent types. Version 2.0
+
+commit 73e060cdeff89404e39e6d15bd831a315a704274
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Sat Nov 16 16:36:12 2013 -0500
+
+    version 1.9
+
+commit 5e12bf29a24e04c03bdda2838ffa8c8712d404a1
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Sat Nov 16 16:35:26 2013 -0500
+
+    version 1.9
+
+commit d0c4dc6a69382841741f0f00f29a143681276caf
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Sat Nov 16 15:59:43 2013 -0500
+
+    version 1.8
+
+commit bf9958dd928de0cd451c05e0ff17f14b921463db
+Merge: b1993ae aed33db
+Author: tekku <thk42@cornell.edu>
+Date:   Sat Nov 16 15:58:19 2013 -0500
+
+    Merge branch 'master' of https://bitbucket.org/benhwang24/ps5
+
+commit b1993ae237f5eabf3b4bbf2e40eda02e52355db1
+Author: tekku <thk42@cornell.edu>
+Date:   Sat Nov 16 15:56:52 2013 -0500
+
+    revised combine
+
+commit aed33db2b4519de7b5bf23ecd6ddd9671c722903
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Fri Nov 15 10:06:27 2013 -0500
+
+    version 1.6
+
+commit 784c8dcd2bc1c194659dc03b5039d467b05adc18
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Fri Nov 15 00:50:14 2013 -0500
+
+    success! for now
+
+commit 3f315bd059fe71c8e24a38748296f20e297e0850
+Merge: 6e1f201 dbb4be4
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Thu Nov 14 19:10:07 2013 -0500
+
+    Merge branch 'master' of https://bitbucket.org/benhwang24/ps5
+
+commit dbb4be40acfef2164aca7b3fc1beee4d1faa392f
+Author: tekku <thk42@cornell.edu>
+Date:   Thu Nov 14 19:09:47 2013 -0500
+
+    map_reduce V.1.05
+
+commit 6e1f201ed4cbba5543ae2df8d05464585e1403e4
+Merge: 8132f61 30711cd
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Thu Nov 14 18:59:15 2013 -0500
+
+    Merge branch 'master' of https://bitbucket.org/benhwang24/ps5
+
+commit 30711cde188dc547eead5f1ecb940a24afb1dbd7
+Author: tekku <thk42@cornell.edu>
+Date:   Thu Nov 14 18:58:24 2013 -0500
+
+    map_reduce.ml v1.4
+
+commit 8132f6151294958928bff91a21ad499677a55307
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Thu Nov 14 18:38:51 2013 -0500
+
+    stuff
+
+commit 4d1d12ae697850800079fea71a41655a603dc37d
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Thu Nov 14 17:41:34 2013 -0500
+
+    stuff
+
+commit 0f4b5a1afaffd41436b87b3e2d6490160b50c5d3
+Author: tekku <thk42@cornell.edu>
+Date:   Thu Nov 14 18:35:40 2013 -0500
+
+    map_reduce.ml v.1.3
+
+commit 24c6e4be9524fda1e5a95f389fa7eff38ff941c9
+Author: tekku <thk42@cornell.edu>
+Date:   Thu Nov 14 17:37:11 2013 -0500
+
+    map_reduce w/ traces revised
+
+commit 6ddb4d6bbc2bb5f94777f06b8710eb69d57bc55a
+Author: tekku <thk42@cornell.edu>
+Date:   Thu Nov 14 17:30:24 2013 -0500
+
+    added more traces to map_reduce.ml
+
+commit da06d1279e71aceaa07cc2863d5e74eb21649797
+Author: tekku <thk42@cornell.edu>
+Date:   Wed Nov 13 23:47:11 2013 -0500
+
+    added traces to map_reduce.ml
+
+commit 0b34e42b15f495fc9b687dc029b761de8d69fef7
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Wed Nov 13 23:42:58 2013 -0500
+
+    changed makefile
+
+commit e87e3d216e5acd047763d35a7fe24b95bd49c8ad
+Author: tekku <thk42@cornell.edu>
+Date:   Wed Nov 13 23:10:40 2013 -0500
+
+    finished map_reduce.ml
+
+commit 96baa4a3ed9adad82bd8041f1033c571755fc49f
+Merge: 1231f45 360516a
+Author: tekku <thk42@cornell.edu>
+Date:   Wed Nov 13 20:59:35 2013 -0500
+
+    Merge branch 'master' of https://bitbucket.org/benhwang24/ps5
+
+commit 1231f451181ffe15b3bb2d5a5d20c6448d9ddd6a
+Author: tekku <thk42@cornell.edu>
+Date:   Wed Nov 13 20:58:53 2013 -0500
+
+    revised map function
+
+commit 360516afb5aa6f1e57b2db454a16779406935082
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Wed Nov 13 18:58:33 2013 -0500
+
+    added marshalling and completed transaction track reduce
+
+commit a1e7cf8bfb5ba2038c46bab33aa0d798ee837bb1
+Author: tekku <thk42@cornell.edu>
+Date:   Wed Nov 13 04:32:20 2013 -0500
+
+    finished map and combine but bugs likely
+
+commit 2de1cf2a5c575c532bc5b5578c2c191f191a3fa3
+Author: tekku <thk42@cornell.edu>
+Date:   Wed Nov 13 00:35:29 2013 -0500
+
+    revised worker.ml that compiles
+
+commit a9d9c7b388cc3c4e08b2e662a8ba2438c7d28457
+Merge: 92a43ac 4ad4492
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Tue Nov 12 01:34:17 2013 -0500
+
+    Merge branch 'master' of https://bitbucket.org/benhwang24/ps5
+
+commit 92a43ac158bdecd540ec99b14c6d2efd2622dbf8
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Tue Nov 12 01:32:18 2013 -0500
+
+    transaction track mapper finished
+
+commit 4ad44924ade7a7bc3b401a303fcf521cc4ec66cb
+Author: tekku <thk42@cornell.edu>
+Date:   Tue Nov 12 00:54:16 2013 -0500
+
+    Incomplete controller.ml
+
+commit e8fbc2f1d97b6b32d4695719fb188cba084a247f
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Sun Nov 10 15:44:16 2013 -0500
+
+    m
+
+commit f690d7a67019828a1c7d43cd5f120d12ad650620
+Author: tekku <thk42@cornell.edu>
+Date:   Sun Nov 10 15:35:04 2013 -0500
+
+    test
+
+commit 7c4e91ff3e20d7cec25c31711b7ff6030c3e0df8
+Author: tekku <thk42@cornell.edu>
+Date:   Sun Nov 10 15:13:10 2013 -0500
+
+    test
+
+commit f6d9d66486a48de28cf5e447ce8e003dbc74149f
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Sun Nov 10 15:09:47 2013 -0500
+
+    grades app completed
+
+commit 8dcb85c14d1e8e913673bd749b6f19ad2932dce9
+Author: Ben Wang <benedicthwang@gmail.com>
+Date:   Tue Nov 5 16:07:56 2013 -0500
+
+    first push
